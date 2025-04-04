@@ -72,7 +72,7 @@ php -S localhost:8000
 5. Open pull request
 
 ## Credits
-Based on Udemy course by Reece Kenney: "Make a Spotify Clone from Scratch"
+Built for Muso.ga with help from Reece Kenney
 
 ## License
 MIT
