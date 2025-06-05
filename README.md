@@ -3,9 +3,9 @@
 Full-stack Spotify clone built with PHP, JavaScript, and MySQL. Features music playback, playlists, and user management.
 
 ## Tech Stack
-- PHP (75.9%)
-- CSS (14.8%)
-- JavaScript (9.3%)
+- PHP 
+- CSS 
+- JavaScript 
 - MySQL
 
 ## Features
